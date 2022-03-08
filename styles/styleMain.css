@@ -1,0 +1,44 @@
+/* CSS Style Sheet (Main) */
+* {
+    color: black;
+}
+html {
+    background-color: lightblue;
+}
+body {
+    background-color: #FFFF80;
+    margin: 0 auto;
+    width: 800px;
+    padding: 0 20px 20px 20px;
+    border: 5px solid greenyellow;
+}
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    border: 2px dotted green;
+    padding: 0 10px 10px 10px;
+    font-family: 'Gamja Flower', cursive;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+p.bold {
+    text-decoration: underline;
+}
+
+.italics {
+    font-style: italic;
+}
+

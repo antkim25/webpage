@@ -1,0 +1,20 @@
+/* CSS Style Sheet (Second Page) */
+
+html {
+    background-color: lightskyblue;
+}
+
+body {
+    background-color: lightcyan;
+    border: 8px solid #F400F3;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.big {
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
